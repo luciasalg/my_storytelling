@@ -29,17 +29,21 @@ Tipo/Género:
 
 ![Texto alternativo](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)
 
-Nombre: 
+Bio: De Agoura Hills. Tiene 30 años, sus padres murieron en un accidente hace diez. Tuvo que cuidar de si misma joven porque no tenía más familia. Su único familiar era su abuelo y no tenía relación con su ellos. Es periodista. Personalidad: Audaz, ingeniosa, y magnética
+ 
 
 
 ### Historia
+Una mujer hereda un terreno en la huerta de un familiar desconocido y  decide crear una granja.
+Meses después comienza a sentirse observada.
+Un hombre la está vigilando, quiere hacerse con su propiedad porque hay algo escondido. Ella tiene que huir del país o sino la matan.
 
 
 ### Contexto
-
+Nos encontramos en una
 
 ### Conflicto 
-
+La protagonista tiene un gran deseo de justicia y de protección de su legado.
 
 
 ### Productos
@@ -50,7 +54,7 @@ Nombre:
 - Banner/Teaser:  (enlace) 
 
 
-- Storytelling: (enlace) 
+- Storytelling: (Herencia oscura, secretos profundos. ¿Qué oculta la casa desconocida?) 
 
 
 
