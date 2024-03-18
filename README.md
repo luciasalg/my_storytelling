@@ -44,7 +44,7 @@ La protagonista tiene un gran deseo de justicia y de protección de su legado. A
 
 ### Productos
 
-- Personaje:![Formato real](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)
+- Personaje:![Formato real](newyorkmnetwork.jpeg)
 
 
 - Banner/Teaser: [Ver video](https://youtu.be/L1FY5TMMoas)
