@@ -39,7 +39,7 @@ Una mujer llamada Rose hereda un terreno en la huerta de su abuelo, un familiar 
 Nos encontramos en 1978 en una granja en mitad de Agoura Hills una ciudad ubicada en el noroeste del condado de Los Ángeles, en California. 
 
 ### Conflicto 
-La protagonista tiene un gran deseo de justicia y de protección de su legado. Aún así se arriesga a que para lograr esto puedan matarla o hacerle daño.
+La protagonista tiene un gran deseo de justicia y de protección de su legado. Aún así se arriesga a que en el intento de descubrir la verdad y proteger su legado puedan matarla o hacerle daño.
 
 
 ### Productos
