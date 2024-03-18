@@ -47,7 +47,7 @@ La protagonista tiene un gran deseo de justicia y de protección de su legado. A
 - Personaje: (img personaje y enlace a interactivo) 
 
 
-- Banner/Teaser: [![](https://youtu.be/L1FY5TMMoas)
+- Banner/Teaser: [Ver video](https://youtu.be/L1FY5TMMoas)
 
 
 
