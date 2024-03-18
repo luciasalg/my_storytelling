@@ -27,7 +27,7 @@ Tipo/Género:
 
 ### ROSE
 
-![Texto alternativo](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)
+![Formato cómic](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)
 
 Rose tiene 30 años, sus padres murieron en un accidente cuando tenía 10 años. Tuvo que cuidar de si misma joven porque no tenía más familiares. Su único familiar era su abuelo y no tenía relación ninguna con él. Únicamente sabía que vivía al norte de Los Ángeles. Ella se dedica desde joven al periodismo, siempre le ha encantado la documentación viajar y la historia. Tiene una personalidad curiosa, audaz, ingeniosa, y magnética. 
  
@@ -36,27 +36,28 @@ Rose tiene 30 años, sus padres murieron en un accidente cuando tenía 10 años.
 Una mujer llamada Rose hereda un terreno en la huerta de su abuelo, un familiar para ella desconocido, y decide crear una granja. Necesita un tiempo de desconexión en su vida así que decide mudarse allí al menos durante un tiempo. Meses después comienza a sentirse observada. Un hombre la está vigilando, quiere hacerse con su propiedad porque hay algo escondido. Ella tiene lidiar entre su gran deseo de justicia y sobrevivir para que no la maten. 
 
 ### Contexto
-Nos encontramos en una granja en mitad de Agoura Hills una ciudad ubicada en el noroeste del condado de Los Ángeles, en California. 
+Nos encontramos en 1978 en una granja en mitad de Agoura Hills una ciudad ubicada en el noroeste del condado de Los Ángeles, en California. 
 
 ### Conflicto 
-La protagonista tiene un gran deseo de justicia y de protección de su legado. Aún así se arriesga a que puedan matarla o hacerle daño.
+La protagonista tiene un gran deseo de justicia y de protección de su legado. Aún así se arriesga a que para lograr esto puedan matarla o hacerle daño.
 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje:![Formato real](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)
 
 
 - Banner/Teaser: [Ver video](https://youtu.be/L1FY5TMMoas)
 
 
 
-- Storytelling: (Herencia oscura, secretos profundos. ¿Qué oculta la casa desconocida?) 
+- Storytelling: Herencia oscura, secretos profundos. ¿Qué oculta la casa desconocida? 
 
 
 
 
 ### Conclusiones/Valoración del equipo
+Esta historia combina suspense, tensión e incluso drama. Estamos muy contentas de cómo va cogiendo forma nuestra historia y cada vez nos va gustando más, además estamos orgullosas del trabajo que estamos llevando acabo con esta asignatura. 
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
