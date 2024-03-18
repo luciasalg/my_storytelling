@@ -27,7 +27,7 @@ Tipo/Género:
 
 ### ROSE
 
-![](img-nobody.png)
+![Texto alternativo](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)
 
 Nombre: 
 
