@@ -44,7 +44,7 @@ La protagonista tiene un gran deseo de justicia y de protección de su legado. A
 
 ### Productos
 
-- Personaje:![Formato real](newyorkmnetwork.jpeg) Formato real
+- Personaje:  ![Formato real](newyorkmnetwork.jpeg) Formato real
 
 
 - Banner/Teaser: [Ver video](https://youtu.be/L1FY5TMMoas)
