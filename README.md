@@ -1,5 +1,5 @@
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling: 
 ### my_storytelling
 
 
@@ -29,21 +29,17 @@ Tipo/Género:
 
 ![Texto alternativo](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)
 
-Bio: De Agoura Hills. Tiene 30 años, sus padres murieron en un accidente hace diez. Tuvo que cuidar de si misma joven porque no tenía más familia. Su único familiar era su abuelo y no tenía relación con su ellos. Es periodista. Personalidad: Audaz, ingeniosa, y magnética
+Rose tiene 30 años, sus padres murieron en un accidente cuando tenía 10 años. Tuvo que cuidar de si misma joven porque no tenía más familiares. Su único familiar era su abuelo y no tenía relación ninguna con él. Únicamente sabía que vivía al norte de Los Ángeles. Ella se dedica desde joven al periodismo, siempre le ha encantado la documentación viajar y la historia. Tiene una personalidad curiosa, audaz, ingeniosa, y magnética. 
  
 
-
 ### Historia
-Una mujer hereda un terreno en la huerta de un familiar desconocido y  decide crear una granja.
-Meses después comienza a sentirse observada.
-Un hombre la está vigilando, quiere hacerse con su propiedad porque hay algo escondido. Ella tiene que huir del país o sino la matan.
-
+Una mujer llamada Rose hereda un terreno en la huerta de su abuelo, un familiar para ella desconocido, y decide crear una granja. Necesita un tiempo de desconexión en su vida así que decide mudarse allí al menos durante un tiempo. Meses después comienza a sentirse observada. Un hombre la está vigilando, quiere hacerse con su propiedad porque hay algo escondido. Ella tiene lidiar entre su gran deseo de justicia y sobrevivir para que no la maten. 
 
 ### Contexto
-Nos encontramos en una
+Nos encontramos en una granja en mitad de Agoura Hills una ciudad ubicada en el noroeste del condado de Los Ángeles, en California. 
 
 ### Conflicto 
-La protagonista tiene un gran deseo de justicia y de protección de su legado.
+La protagonista tiene un gran deseo de justicia y de protección de su legado. Aún así se arriesga a que puedan matarla o hacerle daño.
 
 
 ### Productos
