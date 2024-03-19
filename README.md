@@ -27,7 +27,7 @@ Tipo/Género:
 
 ### ROSE
 
-![Formato cómic](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg)  Formato cómic 
+![Formato real](newyorkmnetwork.jpeg)  "Apariencia real"
 
 Rose tiene 30 años, sus padres murieron en un accidente cuando tenía 10 años. Tuvo que cuidar de si misma joven porque no tenía más familiares. Su único familiar era su abuelo y no tenía relación ninguna con él. Únicamente sabía que vivía al norte de Los Ángeles. Ella se dedica desde joven al periodismo, siempre le ha encantado la documentación viajar y la historia. Tiene una personalidad curiosa, audaz, ingeniosa, y magnética. 
  
@@ -44,7 +44,7 @@ La protagonista tiene un gran deseo de justicia y de protección de su legado. A
 
 ### Productos
 
-- Personajes:  ![Formato real](newyorkmnetwork.jpeg) Formato real
+- Personajes:  ![Formato real](https://github.com/luciasalg/my_storytelling/blob/main/1dbac7375523da5b9705e37fb2e4cba3.jpg) Formato cómic
 
 JACK ![Formato real](istockphoto-857966254-1024x1024.jpg) 
 
