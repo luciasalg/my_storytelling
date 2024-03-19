@@ -47,7 +47,8 @@ La protagonista tiene un gran deseo de justicia y de protección de su legado. A
 - Personajes:  ![Formato real](newyorkmnetwork.jpeg) Formato real
 
 JACK ![Formato real](istockphoto-857966254-1024x1024.jpg) 
-  
+
+BRANDOM  ![Formato real](image.png) 
 
 
 - Banner/Teaser: [Ver video](https://youtu.be/L1FY5TMMoas)
