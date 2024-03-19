@@ -46,7 +46,7 @@ La protagonista tiene un gran deseo de justicia y de protección de su legado. A
 
 - Personajes:  ![Formato real](newyorkmnetwork.jpeg) Formato real
 
-JACK https://miro.com/app/board/uXjVOKlVcGA=/?moveToWidget=3458764580395594309&cot=14
+JACK ![Formato real]() 
   
 
 
