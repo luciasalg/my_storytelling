@@ -65,6 +65,77 @@ Enlace ARCWEAVE:https://arcweave.com/app/project/MWEZ5Kgl2g
 
 Enlace ProtoPie:https://cloud.protopie.io/p/2caa51238ccb9633547b6a97
 
+Código Renpy 
+
+define r = Character("Rose", color="#c84422")
+define j = Character("Jack", color="#0000FF", image="jack")
+
+
+image bg bosque = "bosque.jpg"
+image bg casa = "casa.jpg"
+image bg sotano = im.Scale("sotano.jpg", 2000, 1400)
+
+image r = im.Scale("rose.png", 500, 800)  # Ancho: 500px, Alto: 800px
+image j = im.Scale("jack.png", 500, 800)  # Ancho: 500px, Alto: 800px
+
+# El juego comienza aquí.
+label start:
+
+
+    scene bg casa
+
+    show r at center with fade
+
+    # Líneas del diálogo.
+    r "He heredado esta casa y me da mal rollo"
+
+    r "(Se escuchan ruidos entre los matorrales.)"
+
+    show j at right with fade
+
+    j "¿Eres tú la nueva dueña de esta casa?"
+
+    r "Sí, soy yo, ¿quién eres tú?"
+
+    j "Mi hermano está secuestrado ahí."
+
+    scene bg bosque
+
+    show j at left with fade
+
+    j "Dime, ¿dónde está mi hermano?"
+
+    show r at right with fade
+
+    r "¡No lo sé!"
+
+    j "¡Si no me lo dices, correrás peligro!"
+
+    r "¡Te juro que no sé nada! Acabo de llegar aquí."
+
+    j "¿No has oído nada sospechoso desde que llegaste?"
+
+    r "No, solo esos ruidos en los matorrales, pero no he visto a nadie."
+
+    j "Debo encontrarlo... ¿Puedes ayudarme a buscar?"
+
+    r "De acuerdo, pero ¿por dónde empezamos?"
+
+    j "Empecemos por el sótano. Si escuchamos ruidos, podría ser allí."
+
+    scene bg sotano
+
+    show r at center with fade
+    show j at right with fade
+
+    r "Está bien, pero ten cuidado. No sabemos quién o qué podría estar ahí abajo."
+
+    j "Lo sé, pero no tenemos otra opción."
+
+    r "Vamos, abramos la puerta del sótano."
+
+    # Finaliza el juego:
+    return
 
 
 
